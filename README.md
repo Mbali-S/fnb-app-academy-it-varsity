@@ -3,9 +3,9 @@
 This repository captures my learning journey, projects, and key achievements during my time at the FNB App Academy—an intensive, future-focused program designed to cultivate the next wave of tech innovators. Through hands-on app development and digital innovation, I’ve sharpened my technical skills, solved real-world challenges, and contributed to impactful solutions.
 
 What You’ll Find Here:
-🚀 Projects – Demonstrating my growth in coding, design, and problem-solving.
-📈 Learning Milestones – Tracking my progress in cutting-edge technologies.
-💡 Key Insights – Reflections from an immersive curriculum centered on digital transformation.
+- Projects – Demonstrating my growth in coding, design, and problem-solving.
+- Learning Milestones – Tracking my progress in cutting-edge technologies.
+- Key Insights – Reflections from an immersive curriculum centered on digital transformation.
 
 Join me as I look back on this transformative experience and continue growing as a developer!
 
@@ -20,9 +20,9 @@ Business-Aligned Software Solutions
 Digital Innovation
 
 Program Highlights:
-✔ Industry-Driven Curriculum – Practical training tailored to market demands
-✔ Collaborative Learning – Team-based problem-solving and peer growth
-✔ Scalable Solutions – Building applications ready for real-world impact
+- Industry-Driven Curriculum – Practical training tailored to market demands
+- Collaborative Learning – Team-based problem-solving and peer growth
+- Scalable Solutions – Building applications ready for real-world impact
 
 Designed for future-ready technologists, this immersive experience bridges the gap between coding skills and business value.
 
