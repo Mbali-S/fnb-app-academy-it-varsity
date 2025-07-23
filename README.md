@@ -13,11 +13,9 @@ Join me as I look back on this transformative experience and continue growing as
 
 The FNB App Academy is a rigorous 9-week graduate training program that transforms aspiring developers into skilled software engineers. Combining hands-on projects, expert mentorship, and real-world challenges, the academy equips participants with the technical expertise and business acumen needed to excel in:
 
-App Development
-
-Business-Aligned Software Solutions
-
-Digital Innovation
+- App Development
+- Business-Aligned Software Solutions
+- Digital Innovation
 
 Program Highlights:
 - Industry-Driven Curriculum – Practical training tailored to market demands
